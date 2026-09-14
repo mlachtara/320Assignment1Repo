@@ -1,2 +1,2 @@
 # 320Assignment1Repo
-The new repository for 320 assignment.
+Repository for git setup, Michael Lachtara
